@@ -19,7 +19,7 @@ Although it is always taken for granted that a software code has a purpose, very
 that  would allow it to describe the design of particular software code piece within a software service. Truth Server maintains a software testing philosophy 
 that says a truthiness of a software it self can be tested by matching the initial design criteria with the execution time result of a software service.
 Truth Server approach to software code testing relies on some ‘resolution patterns’ that are brought in place before the coding takes place. 
-This allows to create a framework of software testing that is based on the design thoughts that went into producing the code that matches the 
-resolution patterns identified during the design phase  of software code and allows one to test whether the behaviour of code matches with those 
+This allows to create a framework of software testing that is based on the design thoughts that went into producing the code; the framework gathers the 
+resolution patterns identified during the design phase  of software code and allows one to test whether the execution behaviour of code matches with those 
 initial design thoughts. The testing criteria remains valid irrespective of particular implementation detail or syntax of the programming language used . 
 The Truth Server approach can be adopted by any programming language for carrying out truthiness testing
