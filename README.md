@@ -16,7 +16,7 @@ define the important flows in the App.
 The above code has been the initial experimentation before I arrived into the concept of truthiness of software . This concept is summarised below:
 Truth Server presents a new way to test software code that has been designed with a purpose in mind, expressed as ‘software service’. 
 Although it is always taken for granted that a software code has a purpose, very often this purpose remain un-stated at the right granular level 
-that  would allow it to describes the design of particular software code piece within a software service. Truth Server maintains a software testing philosophy 
+that  would allow it to describe the design of particular software code piece within a software service. Truth Server maintains a software testing philosophy 
 that says a truthiness of a software it self can be tested by matching the initial design criteria with the execution time result of a software service.
 Truth Server approach to software code testing relies on some ‘resolution patterns’ that are brought in place before the coding takes place. 
 This allows to create a framework of software testing that is based on the design thoughts that went into producing the code that matches the 
